@@ -1,4 +1,5 @@
-# Welcom to [Hacktoberfest am Main](https://www.meetup.com/Coding-Dojo-Rhein-Main/events/254752507/)
+# Welcome to [Hacktoberfest am Main](https://www.meetup.com/Coding-Dojo-Rhein-Main/events/254752507/)
+![Hacktoberfest Logo](/images/hacktoberfest_Am_Main.png)
 
 ## Was ist das Hacktoberfest?
 * 5tes Hacktoberfest
