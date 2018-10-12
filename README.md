@@ -2,7 +2,7 @@
 ![Hacktoberfest Logo](/images/Hacktoberfest_Am_Main.png)
 
 ## Was ist das Hacktoberfest?
-* 5tes Hacktoberfest
+* [5tes Hacktoberfest](https://hacktoberfest.digitalocean.com/faq)
 * [Code of Conduct](https://docs.google.com/document/d/1gFKOhyUqMZzrZcbq8A_TpO5x9J9HK6agv70awCH8pyI/edit)
 
 ## Getting Started
