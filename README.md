@@ -19,6 +19,6 @@
 * [Terasology](https://github.com/MovingBlocks/Terasology/labels/Good%20First%20Issue)
 * [Hasura](https://github.com/hasura/graphql-engine/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
 
-## Suchmaschine für den Einstieg
+### Suchmaschine für den Einstieg
 * [issuehub](http://issuehub.io/)
 * [up for grabs](https://up-for-grabs.net/#/)
