@@ -9,8 +9,7 @@
 ## Getting Started
 1. [Github Account registrieren](https://hacktoberfest.digitalocean.com/sign_up/register)
 2. Wie erstelle ich einen [Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
-3. [Projekt auswählen](Wie erstelle ich einen [Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
-)
+3. [Projekt auswählen] (https://hacktoberfest.digitalocean.com/#gettingstarted)
 4. Issue / Contribution auswählen
 5. "Hacking"
 
