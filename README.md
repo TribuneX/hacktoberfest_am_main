@@ -20,5 +20,6 @@
 * [Hasura](https://github.com/hasura/graphql-engine/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
 
 ### Suchmaschine für den Einstieg
+* [Hacktoberfest Issues on Github](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue&type=Issues)
 * [issuehub](http://issuehub.io/)
 * [up for grabs](https://up-for-grabs.net/#/)
